@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\technopc\\Desktop\\MyStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|c:\\users\\technopc\\desktop\\mystore\\mystore\\pages\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|c:\\users\\technopc\\desktop\\mystore\\mystore\\pages\\clients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|c:\\users\\technopc\\desktop\\mystore\\mystore\\pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|c:\\users\\technopc\\desktop\\mystore\\mystore\\pages\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|c:\\users\\technopc\\desktop\\mystore\\mystore\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|c:\\users\\technopc\\desktop\\mystore\\mystore\\pages\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|c:\\users\\technopc\\desktop\\mystore\\mystore\\pages\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6066B16-64F8-47B8-8813-A8E9DE1A1B98}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Create.cshtml",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Create.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-21T16:34:42.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Index.cshtml",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-21T16:34:42.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-21T16:34:42.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Edit.cshtml.cs",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Edit.cshtml.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAmwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T16:34:42.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Create.cshtml.cs",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T16:34:42.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Index.cshtml.cs",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T16:34:42.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\technopc\\Desktop\\MyStore\\MyStore\\Pages\\Clients\\Edit.cshtml",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-21T16:34:42.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
